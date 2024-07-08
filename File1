@@ -1,0 +1,4 @@
+mkdir user-management-service
+cd user-management-service
+git init
+git remote add origin <repository-url>
